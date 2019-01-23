@@ -1,5 +1,5 @@
 
-# RDD Advanced Operations
+# RDD Advanced Operations - Lab
 
 ## Introduction
 
